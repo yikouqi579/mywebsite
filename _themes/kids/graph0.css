@@ -1,0 +1,70 @@
+.mstheme
+{
+	nav-banner-image: url(kddbnr.gif);
+	separator-image: url(kddrule.gif);
+	list-image-1: url(kddbull1.gif);
+	list-image-2: url(kddbull2.gif);
+	list-image-3: url(kddbull3.gif);
+	navbutton-horiz-pushed: url(kddhns.gif);
+	navbutton-horiz-normal: url(kddhnd.gif);
+	navbutton-vert-pushed: url(kddvns.gif);
+	navbutton-vert-normal: url(kddvnd.gif);
+	navbutton-home-normal: url(kddhom.gif);
+	navbutton-up-normal: url(kddup.gif);
+	navbutton-prev-normal: url(kddpre.gif);
+	navbutton-next-normal: url(kddnex.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 6;
+	color: rgb(255,255,153);
+}
+.mstheme-horiz-navtxt
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 2;
+	color: rgb(255,255,204);
+}
+.mstheme-vert-navtxt
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 2;
+	color: rgb(255,255,204);
+}
+.mstheme-navtxthome
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,204);
+}
+.mstheme-navtxtup
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,204);
+}
+.mstheme-navtxtprev
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,204);
+}
+.mstheme-navtxtnext
+{
+	font-family: "Comic Sans MS", Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,204);
+}
+UL
+{
+	list-style-image:url(kddbull1.gif);
+}
+UL UL
+{
+	list-style-image:url(kddbull2.gif);
+}
+UL UL UL
+{
+	list-style-image:url(kddbull3.gif);
+}
