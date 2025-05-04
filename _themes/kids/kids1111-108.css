@@ -1,0 +1,150 @@
+.mstheme     { nav-banner-image: url(kdabnr.gif); separator-image: url(kdarule.gif); 
+               list-image-1: url(kdabull1.gif); list-image-2: 
+               url(kdabull2.gif); list-image-3: url(kdabull3.gif); 
+               navbutton-horiz-pushed: url(kdahns.gif); 
+               navbutton-horiz-normal: url(kdahnd.gif); 
+               navbutton-horiz-hovered: url(kdahnm.gif); 
+               navbutton-vert-pushed: url(kdavns.gif); navbutton-vert-normal: 
+               url(kdavnd.gif); navbutton-vert-hovered: url(kdavnm.gif); 
+               navbutton-home-normal: url(kdahom.gif); 
+               navbutton-home-hovered: url(kdahomm.gif); 
+               navbutton-home-pushed: url(kdahom.gif); navbutton-up-normal: 
+               url(kdaup.gif); navbutton-up-hovered: url(kdaupm.gif); 
+               navbutton-up-pushed: url(kdaup.gif); navbutton-prev-normal: 
+               url(kdapre.gif); navbutton-prev-hovered: url(kdaprem.gif); 
+               navbutton-prev-pushed: url(kdapre.gif); navbutton-next-normal: 
+               url(kdanex.gif); navbutton-next-hovered: url(kdanexm.gif); 
+               navbutton-next-pushed: url(kdanex.gif) }
+.mstheme-bannertxt { font-size: 6; color: rgb(255,255,153); font-family: ±Ã¼­ }
+.mstheme-horiz-navtxt { font-size: 2; color: rgb(255,255,204); font-family: ±Ã¼­ }
+.mstheme-vert-navtxt { font-size: 2; color: rgb(255,255,204); font-family: ±Ã¼­ }
+.mstheme-navtxthome { font-size: 1; color: rgb(255,255,204); font-family: ±Ã¼­ }
+.mstheme-navtxtup { font-size: 1; color: rgb(255,255,204); font-family: ±Ã¼­ }
+.mstheme-navtxtprev { font-size: 1; color: rgb(255,255,204); font-family: ±Ã¼­ }
+.mstheme-navtxtnext { font-size: 1; color: rgb(255,255,204); font-family: ±Ã¼­ }
+ul           { list-style-image: url('kdabull1.gif') }
+ul ul        { list-style-image: url('kdabull2.gif') }
+ul ul ul     { list-style-image: url('kdabull3.gif') }
+a:link       { color: rgb(0,0,255) }
+a:visited    { color: rgb(204,0,0) }
+a:active     { color: rgb(255,153,0) }
+body         { color: rgb(0,51,153); background-color: rgb(255,255,204) }
+h1           { color: rgb(51,0,204) }
+h2, marquee  { color: rgb(51,0,204) }
+h3           { color: rgb(51,0,204) }
+h4           { color: rgb(51,0,204) }
+h5           { color: rgb(51,0,204) }
+h6           { color: rgb(51,0,204) }
+button       { background-color: rgb(51,0,204); color: white; border-color: rgb(0,0,255) }
+label, .MSTHEME-LABEL { color: rgb(0,51,153) }
+textarea     { color: black; border-color: rgb(51,0,204) }
+fieldset     { color: black; border-color: rgb(51,0,204) }
+legend       { color: rgb(51,0,204) }
+select       { color: black; border-color: rgb(51,0,204) }
+table        { table-border-color-light: rgb(0,0,255); table-border-color-dark: rgb(51,0,204); 
+               color: rgb(0,51,153); border-color: rgb(51,0,204) }
+caption      { color: rgb(51,0,204) }
+th           { color: rgb(0,51,153) }
+hr           { color: rgb(51,0,204) }
+td           { border-color: rgb(51,0,204) }
+.mstheme-bannertxt a:active { color: rgb(255,255,153) }
+.mstheme-bannertxt a:link { color: rgb(255,255,153) }
+.mstheme-bannertxt a:visited { color: rgb(255,255,153) }
+.mstheme-bannertxt-g { font-size: 6; color: rgb(255,255,153); background-image: url('kddbnr.gif'); 
+               font-family: ±Ã¼­ }
+.mstheme-bannertxt-g a:active { color: rgb(255,255,153) }
+.mstheme-bannertxt-g a:link { color: rgb(255,255,153) }
+.mstheme-bannertxt-g a:visited { color: rgb(255,255,153) }
+.mstheme-bannertxt-s { font-size: 6; color: rgb(255,255,153); font-family: ±Ã¼­ }
+.mstheme-bannertxt-s a:active { color: rgb(255,255,153) }
+.mstheme-bannertxt-s a:link { color: rgb(255,255,153) }
+.mstheme-bannertxt-s a:visited { color: rgb(255,255,153) }
+.mstheme-horiz-navtxt a:active { color: rgb(255,255,204) }
+.mstheme-horiz-navtxt a:link { color: rgb(255,255,204) }
+.mstheme-horiz-navtxt a:visited { color: rgb(255,255,204) }
+.mstheme-horiz-navtxt-g { font-size: 2; color: rgb(255,255,204); background-image: url('kddhnd.gif'); 
+               font-family: ±Ã¼­ }
+.mstheme-horiz-navtxt-g a:active { color: rgb(255,255,204) }
+.mstheme-horiz-navtxt-g a:link { color: rgb(255,255,204) }
+.mstheme-horiz-navtxt-g a:visited { color: rgb(255,255,204) }
+.mstheme-horiz-navtxt-gs { font-size: 2; color: rgb(255,255,204); background-image: url('kddhns.gif'); 
+               font-family: ±Ã¼­ }
+.mstheme-horiz-navtxt-gs a:active { color: rgb(255,255,204) }
+.mstheme-horiz-navtxt-gs a:link { color: rgb(255,255,204) }
+.mstheme-horiz-navtxt-gs a:visited { color: rgb(255,255,204) }
+.mstheme-navtxthome a:active { color: rgb(255,255,204) }
+.mstheme-navtxthome a:link { color: rgb(255,255,204) }
+.mstheme-navtxthome a:visited { color: rgb(255,255,204) }
+.mstheme-navtxthome-g { font-size: 1; color: rgb(255,255,204); background-image: url('kddhom.gif'); 
+               font-family: ±Ã¼­ }
+.mstheme-navtxthome-g a:active { color: rgb(255,255,204) }
+.mstheme-navtxthome-g a:link { color: rgb(255,255,204) }
+.mstheme-navtxthome-g a:visited { color: rgb(255,255,204) }
+.mstheme-navtxtnext a:active { color: rgb(255,255,204) }
+.mstheme-navtxtnext a:link { color: rgb(255,255,204) }
+.mstheme-navtxtnext a:visited { color: rgb(255,255,204) }
+.mstheme-navtxtnext-g { font-size: 1; color: rgb(255,255,204); background-image: url('kddnex.gif'); 
+               font-family: ±Ã¼­ }
+.mstheme-navtxtnext-g a:active { color: rgb(255,255,204) }
+.mstheme-navtxtnext-g a:link { color: rgb(255,255,204) }
+.mstheme-navtxtnext-g a:visited { color: rgb(255,255,204) }
+.mstheme-navtxtprev a:active { color: rgb(255,255,204) }
+.mstheme-navtxtprev a:link { color: rgb(255,255,204) }
+.mstheme-navtxtprev a:visited { color: rgb(255,255,204) }
+.mstheme-navtxtprev-g { font-size: 1; color: rgb(255,255,204); background-image: url('kddpre.gif'); 
+               font-family: ±Ã¼­ }
+.mstheme-navtxtprev-g a:active { color: rgb(255,255,204) }
+.mstheme-navtxtprev-g a:link { color: rgb(255,255,204) }
+.mstheme-navtxtprev-g a:visited { color: rgb(255,255,204) }
+.mstheme-navtxtup a:active { color: rgb(255,255,204) }
+.mstheme-navtxtup a:link { color: rgb(255,255,204) }
+.mstheme-navtxtup a:visited { color: rgb(255,255,204) }
+.mstheme-navtxtup-g { font-size: 1; color: rgb(255,255,204); background-image: url('kddup.gif'); 
+               font-family: ±Ã¼­ }
+.mstheme-navtxtup-g a:active { color: rgb(255,255,204) }
+.mstheme-navtxtup-g a:link { color: rgb(255,255,204) }
+.mstheme-navtxtup-g a:visited { color: rgb(255,255,204) }
+.mstheme-topbar-font a:active { color: rgb(255,255,204) }
+.mstheme-topbar-font a:link { color: rgb(255,255,204) }
+.mstheme-topbar-font a:visited { color: rgb(255,255,204) }
+.mstheme-topbar-font-g { font-size: 1; color: rgb(255,255,204); background-image: url('kdgbl.gif'); 
+               font-family: ±Ã¼­ }
+.mstheme-topbar-font-g a:active { color: rgb(255,255,204) }
+.mstheme-topbar-font-g a:link { color: rgb(255,255,204) }
+.mstheme-topbar-font-g a:visited { color: rgb(255,255,204) }
+.mstheme-vert-navtxt a:active { color: rgb(255,255,204) }
+.mstheme-vert-navtxt a:link { color: rgb(255,255,204) }
+.mstheme-vert-navtxt a:visited { color: rgb(255,255,204) }
+.mstheme-vert-navtxt-g { font-size: 2; color: rgb(255,255,204); background-image: url('kddvnd.gif'); 
+               font-family: ±Ã¼­ }
+.mstheme-vert-navtxt-g a:active { color: rgb(255,255,204) }
+.mstheme-vert-navtxt-g a:link { color: rgb(255,255,204) }
+.mstheme-vert-navtxt-g a:visited { color: rgb(255,255,204) }
+.mstheme-vert-navtxt-gs { font-size: 2; color: rgb(255,255,204); background-image: url('kddvns.gif'); 
+               font-family: ±Ã¼­ }
+.mstheme-vert-navtxt-gs a:active { color: rgb(255,255,204) }
+.mstheme-vert-navtxt-gs a:link { color: rgb(255,255,204) }
+.mstheme-vert-navtxt-gs a:visited { color: rgb(255,255,204) }
+.mstheme     { navbutton-background-color: rgb(255,255,102); top-bar-button: url(kdgbl.gif) }
+.mstheme-topbar-font { font-size: 1; color: rgb(255,255,204); font-family: ±Ã¼­ }
+body         { background-image: url('kdbkgnd.jpg'); font-family: ±Ã¼­ }
+h1           { font-weight: normal; font-style: normal; font-size: 24pt; font-family: ±Ã¼­ }
+h2           { font-weight: normal; font-style: normal; font-size: 18pt; font-family: ±Ã¼­ }
+h3           { font-weight: normal; font-style: normal; font-size: 14pt; font-family: ±Ã¼­ }
+h4           { font-weight: normal; font-style: normal; font-size: 12pt; font-family: ±Ã¼­ }
+h5           { font-weight: normal; font-style: normal; font-size: 10pt; font-family: ±Ã¼­ }
+h6           { font-weight: normal; font-style: normal; font-size: 8pt; font-family: ±Ã¼­ }
+button       { font-size: 8pt; font-style: normal; font-family: ±Ã¼­; border-style: solid; 
+               border-width: 1pt }
+label, .MSTHEME-LABEL { font-size: 8pt; font-style: normal; font-family: ±Ã¼­ }
+textarea     { font-size: 8pt; font-style: normal; font-family: ±Ã¼­; border-style: solid; 
+               border-width: 1pt }
+fieldset     { font-size: 8pt; font-style: normal; font-family: ±Ã¼­; border-style: solid; 
+               border-width: 1pt }
+legend       { font-size: 8pt; font-style: normal; font-family: ±Ã¼­ }
+select       { font-size: 8pt; font-style: normal; font-family: ±Ã¼­; border-style: solid; 
+               border-width: 1pt }
+table        { font-style: normal; font-family: ±Ã¼­ }
+caption      { font-size: 14pt; font-style: normal; font-family: ±Ã¼­ }
+th           { font-style: normal; font-family: ±Ã¼­ }
+marquee      { font-size: 14pt; font-family: ±Ã¼­ }
